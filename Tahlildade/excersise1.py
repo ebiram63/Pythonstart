@@ -11,4 +11,7 @@ if number > 365:
     
     print ("year = ", year , "month = ", month , "day = ", day) 
 else:
-    print("It is year = 0")
+    month = number // 30 #+ #yeartomonth
+    reminder = number % 30
+    day = reminder 
+    print("year = 0"  , "month = ", month , "day = ", day)
