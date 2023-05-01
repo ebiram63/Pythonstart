@@ -1,0 +1,7 @@
+admin
+admin-panel
+root
+adminpage
+homepage
+user
+Category
