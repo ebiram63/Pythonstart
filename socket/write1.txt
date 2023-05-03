@@ -1,0 +1,9 @@
+admin
+admin-panel
+root
+adminpage
+homepage
+user
+Category
+shop
+admin_panel
